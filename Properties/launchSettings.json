@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QueueClientApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AZURE_STORAGE_CONNECTION_STRING": ""
+      }
+    }
+  }
+}
